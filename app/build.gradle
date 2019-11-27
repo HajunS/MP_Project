@@ -32,4 +32,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
     //implementation 'com.google.android.gms:play-services:9.4.0'
+    //윗줄의 주석처리를스마트폰에서 직접 실행할 때에는 그대로 두고
+    //안드로이드 스튜디오 에뮬레이터로 실행할 때에는 취소해주세요.
 }
